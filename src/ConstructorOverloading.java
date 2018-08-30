@@ -10,6 +10,8 @@ public class ConstructorOverloading {
 
         System.out.println("The current time of day is" +
                 " "+now.getmHour()+": "+now.getmMinutes());
+        
+        System.out.println("This is a new line");
 
 
     }
